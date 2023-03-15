@@ -10,4 +10,14 @@
     <g id="mygroup">
         <text id="text1" x="9" y="20" style="text-anchor:start;font-size:14px;">Wenn ich abends früher ins Bett gehe, kann ich doch eigentlich nur von einer Absicht sprechen "morgens ausgeruhter zu sein" und nicht von einem Ziel, da der Zustand "ausgeruht sein" nicht wirklich genau herbeigeführt werden kann. Wie siehst du das?</text>  
     </g>
+    
+    <switch>
+<foreignObject x="20" y="90" width="150" height="200">
+<p xmlns="http://www.w3.org/1999/xhtml">Wenn ich abends früher ins Bett gehe, kann ich doch eigentlich nur von einer Absicht sprechen "morgens ausgeruhter zu sein" und nicht von einem Ziel, da der Zustand "ausgeruht sein" nicht wirklich genau herbeigeführt werden kann. Wie siehst du das?</p>
+</foreignObject>
+
+<text x="20" y="20">Your SVG viewer cannot display html.</text>
+</switch>
+    
+    
 </svg>
