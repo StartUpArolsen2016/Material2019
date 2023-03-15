@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 320 230" preserveAspectRatio="xMidYMid meet">
+
+<switch>
+  
+<g requiredFeatures="http://www.w3.org/Graphics/SVG/feature/1.2/#TextFlow">
+      <textArea width="200" height="auto">
+       Text goes here
+      </textArea>
+    </g>
+    <foreignObject width="200" height="200" 
+     requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+
+  <p xmlns="http://www.w3.org/1999/xhtml">
+    <div style="background-color:#A9E2F3;font-family:verdana;padding:10px;font-size:12pt;">
+    Wenn ich abends früher ins Bett gehe, kann ich doch eigentlich nur von einer Absicht sprechen "morgens ausgeruhter zu sein" und nicht von einem Ziel, da der Zustand "ausgeruht sein" nicht wirklich genau herbeigeführt werden kann. Wie siehst du das?
+    </div>
+</p>
+
+  </foreignObject>
+    <text x="20" y="20">No automatic linewrapping.</text>  
+  
+</switch>
+    
+    
+</svg>
